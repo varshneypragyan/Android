@@ -12,7 +12,7 @@ class FirstScreen extends StatelessWidget {
         child: Text (
           generateLuckyNumber(),
           textDirection: TextDirection.ltr,
-          style: TextStyle(color: Colors.white, fontSize: 20.0),
+          style: TextStyle(color: Colors.white, fontSize: 40.0),
         ),
       )
     );

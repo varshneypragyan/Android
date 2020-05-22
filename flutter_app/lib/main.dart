@@ -10,9 +10,9 @@ class MyFlutterApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp (
         debugShowCheckedModeBanner: false,
-        title: "My Flutter App",
+        title: "Lucky Number Generator",
         home: Scaffold(
-          appBar: AppBar(title: Text("My First App Screen"),),
+          appBar: AppBar(title: Text("Lucky Number Generator"),),
           body: FirstScreen(),
         )
     );
