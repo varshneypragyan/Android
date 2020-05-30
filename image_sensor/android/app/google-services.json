@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598505057458",
+    "firebase_url": "https://image-recogniser-45a8c.firebaseio.com",
+    "project_id": "image-recogniser-45a8c",
+    "storage_bucket": "image-recogniser-45a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598505057458:android:3c4b4b7bc9df78a068edab",
+        "android_client_info": {
+          "package_name": "com.nerf.imagesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598505057458-nb3ohubklpg7ou2ef5kfh3ueqgujlvp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E4F6PUw0Lkxcw5G-_viZking_p2WXDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598505057458-nb3ohubklpg7ou2ef5kfh3ueqgujlvp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
